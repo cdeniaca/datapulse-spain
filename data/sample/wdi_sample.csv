@@ -1,0 +1,9 @@
+country_code,country_name,indicator_code,indicator_name,unit,year,value,source,last_updated
+ESP,España,SL.UEM.TOTL.ZS,Desempleo,% población activa,2022,12.92,World Bank Indicators API,
+ESP,España,SL.UEM.TOTL.ZS,Desempleo,% población activa,2023,12.18,World Bank Indicators API,
+ESP,España,NY.GDP.PCAP.CD,PIB per cápita,USD,2022,29674.54,World Bank Indicators API,
+ESP,España,NY.GDP.PCAP.CD,PIB per cápita,USD,2023,32676.98,World Bank Indicators API,
+PRT,Portugal,SL.UEM.TOTL.ZS,Desempleo,% población activa,2022,6.01,World Bank Indicators API,
+PRT,Portugal,SL.UEM.TOTL.ZS,Desempleo,% población activa,2023,6.49,World Bank Indicators API,
+PRT,Portugal,NY.GDP.PCAP.CD,PIB per cápita,USD,2022,24567.51,World Bank Indicators API,
+PRT,Portugal,NY.GDP.PCAP.CD,PIB per cápita,USD,2023,27275.03,World Bank Indicators API,
