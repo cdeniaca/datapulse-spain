@@ -5,8 +5,11 @@
 [![SQLite](https://img.shields.io/badge/SQLite-Analytics-003B57?logo=sqlite&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](#)
 [![Tests](https://img.shields.io/badge/Pytest-CI-0A9EDC?logo=pytest&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Dashboard-6f42c1?style=for-the-badge&logo=streamlit&logoColor=white)](https://datapulse-spain.streamlit.app/)
 
 Proyecto end-to-end de **Data Analytics, calidad de datos y automatización** para analizar la evolución macroeconómica de España frente a economías europeas comparables.
+
+**🌐 Dashboard público:** https://datapulse-spain.streamlit.app/
 
 ![Preview del dashboard de DataPulse Spain](docs/dashboard-preview.svg)
 
@@ -32,6 +35,7 @@ El proyecto está diseñado como una pieza de portfolio que demuestra organizaci
 - benchmarking entre España, Portugal, Francia, Italia y Alemania
 - tests automatizados con **Pytest**
 - CI mediante **GitHub Actions**
+- despliegue público con **Streamlit Community Cloud**
 
 ## 📈 Indicadores
 
@@ -132,7 +136,6 @@ Los valores ausentes de la fuente se registran como `warning`; los problemas que
 
 ## 🗺️ Roadmap
 
-- desplegar el dashboard públicamente
 - añadir histórico de ejecuciones del pipeline
 - generar un score de calidad por carga
 - incorporar una segunda fuente pública para reconciliación
